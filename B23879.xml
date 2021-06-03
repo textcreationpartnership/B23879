@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Common-wealth of England, the humble petition of Elizabeth Dutchesse (dowager) of Hamilton, and her foure orphan daughters.</title>
+            <author>Hamilton, Elizabeth Hamilton, Duchess of, 1619 or 20-1659.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23879</idno><idno type="EEBO-CITATION">99888297</idno>
+  <idno type="VID">201774</idno>
+  <idno type="EEBO-PROQUEST">2240899836</idno>
+  
+            <idno type="STC">Wing H477A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[2]</idno>
+            <idno type="STC">ESTC R229290</idno>
+            <idno type="PROQUEST">ocm99888297</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888297e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201774)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Common-wealth of England, the humble petition of Elizabeth Dutchesse (dowager) of Hamilton, and her foure orphan daughters.</title>
+                  <author>Hamilton, Elizabeth Hamilton, Duchess of, 1619 or 20-1659.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Inheritance and succession --  England --  Early works to 1800.</term>
+               <term type="topical_term">Marriage settlements --  England --  Early works to 1800.</term>
+               <term type="topical_term">Marriage law --  England --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:201774:1"/>
+            <head>To the Parliament of the Common-wealth of England, The humble Petition of <hi>Elizabeth</hi> Dutchesse (dowager) of <hi>Hamilton,</hi> and her Foure Orphan Daughters.</head>
+            <opener>SHEWETH,</opener>
+            <p>THat your Commissioners for Sequestrations at <hi>Leith</hi> in <hi>Scotland,</hi> have Se<g ref="char:EOLhyphen"/>questred the Lordship of <hi>Keneele,</hi> and other Lands in <hi>Scotland,</hi> setled upon her for her Joynture, and Provision of her foure Daughters, upon most just and valuable Considerations. (conceiving the same to be confiscated by the Declaration of Parliament in <hi>February 1651.</hi>)</p>
+            <p>That so it is, That the Case hath beene truely stated and presented to learned Councell, who (upon perusall thereof, together with the said Declaration) have delivered their Opinions under their hands:<note place="margin">
+                  <list>
+                     <item>M<seg rend="sup">r</seg>
+                        <hi>Recorder.</hi>
+                     </item>
+                     <item>M<seg rend="sup">r</seg>
+                        <hi>Maynard.</hi>
+                     </item>
+                     <item>M<seg rend="sup">r</seg>
+                        <hi>Latch.</hi>
+                     </item>
+                  </list>
+               </note> That your Petitioners said Joynture and Provision for her said Children, is not forfeited by the said Declaration.</p>
+            <p>Your Petitioners humbly pray, That (in the midst of their great Misfortunes and heavy Sufferings) you would please to vouchsafe your speedy Justice by the discharge of the Sequestration of the said Lands, and restoring to them the Rents and Profits received since they were dispossessed thereof.</p>
+            <closer>And they shall pray, &amp;c.
+<signed>
+                  <list>
+                     <item>
+                        <hi>E. Hamilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Anne Hamilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Eliz. Hamilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Mary Hamilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Margaret Hamilton.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <head>A Declaration of the Parliament of the Common-wealth of <hi>England,</hi> concerning the Settlement of <hi>Scotland.</hi> February 1651. Whereof the Third Branch which concernes the Case, is in these words, <hi>(viz.)</hi>
+            </head>
+            <p>THey doe declare, As to satisfaction and Reparation, that they intend and expect for the vast Expences and damages which this Common-wealth hath already undergone by reason of the Invasion, in the yeare 1648, by the Scots Army, under the then <hi>Duke Hamilton,</hi> the warre which they necessitated <hi>England</hi> to for their owne defence, and the late Inva<g ref="char:EOLhyphen"/>sion by the Army under <hi>Charles Stewart;</hi> and for and towards the lessening the future Charge of this Common-wealth, All the Lands, Houses, Goods and Revenue whatsoever belonging to the said <hi>Charles Stewart</hi> pretended King of the <hi>Scots,</hi> or to the Crowne or State of <hi>Scotland:</hi> And all the Estates whatsoever, reall or personall of those who did Invade <hi>England</hi> under <hi>Duke Hamilton▪</hi> in the yeare 1648. or were advising, contriving or promoting thereof, or in any way ayding, abetting or assisting thereunto, or who were in Armes under the said <hi>Charles Stewart,</hi> or were any way ayding, abetting or assisting to him in <hi>Scotland,</hi> or who did with the said <hi>Charles Stewart,</hi> lately Invade <hi>England,</hi> or were ayding, abetting or assisting thereunto, or since the same, have raised Armes, or been Promotors, Abettors or Assistors thereof in prosecution of the said Invasion, or in opposition to the Forces of the Parliament of <hi>England</hi> remaining there, shall be confiscated, and forfeited, to the use and benefit of the Common-wealth of <hi>England</hi> (except such who have since the battle of <hi>Dunbar,</hi> on the third of <hi>Sept.</hi> 1650. deserted the said <hi>Charles Stewart,</hi> and not borne Armes since against the Parliament, as also such whose Merits and Services to this Com<g ref="char:EOLhyphen"/>mon-wealth, have or shall render them capable of being taken into a more favourable Con<g ref="char:EOLhyphen"/>sideration by the Parliament.</p>
+         </div>
+         <div type="text">
+            <head>The Case of the Duchesse (dowager) of <hi>Hamilton,</hi> and her Foure Orphan Daughters.</head>
+            <p>THat in <hi>Feb.</hi> 1639, Articles of Mariage were Sealed and Delivered betweene <hi>William Earle of Lanrick</hi> after<g ref="char:EOLhyphen"/>wards <hi>Duke of Hamilton</hi> deceased, and <hi>James Maxwell</hi> Esquire, afterwards <hi>Earle of Dirlton</hi> in <hi>Scotland</hi> decea<g ref="char:EOLhyphen"/>sed, Father of <hi>Elizabeth Maxwell,</hi> wife afterwards of the said <hi>Duke.</hi>
+            </p>
+            <p>That in consideration of 10000<seg rend="sup">li</seg>. portion, to be given by the said <hi>James Maxwell</hi> with his said daughter, the said <hi>Duke</hi> should purchase Lands to the value of 20000<seg rend="sup">l</seg>. for the security of a Joynture to his Lady, and for pro<g ref="char:EOLhyphen"/>vision for the Children to be begotten between them: And to that end the said <hi>Duke</hi> did deposit 10000<seg rend="sup">l</seg>. in the hands of the said <hi>Earle of Dirlton.</hi>
+            </p>
+            <p>That the summe of 20000<seg rend="sup">l</seg>. for security of such Lands to be purchased, remained in the hands of the said <hi>James Maxwell Earle of Dirlton,</hi> till after the death of <hi>James Duke Hamilton.</hi>
+            </p>
+            <p>That <hi>Duke William</hi> succeeding to his Brothers Estate, upon raising and payment of the said 20000<seg rend="sup">li</seg>. unto him by the said <hi>Earle of Dirlton</hi> (which was imployed for payment of his Brothers debts) he in the yeare 1649. setled upon his said wife his Lands of <hi>Keneele</hi> in <hi>Scotland,</hi> for her Joynture and provision of her children, redeemable upon the payment of 10000<seg rend="sup">l</seg>. to his daughters (they having no other maintenance provided for them during their Mothers life) and this security of <hi>Keneele</hi> was granted to them in lieu of the said Portion of 10000<seg rend="sup">l</seg>. brought by their Mother, the whole estate of the said <hi>Duke</hi> besides being conveyed by him to his Neece, <hi>Duke James</hi> his Daughter.</p>
+            <p>
+               <hi>Quaere.</hi> Whether the said settlement of <hi>Keneele</hi> upon the <hi>Duchesse</hi> and her children, upon these just and weighty considerations in 1649. ought not to be valid, notwithstanding the Declaration of the Parliament Anno 1651.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>E. Hamilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Anne Hamilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Eliz. Hamilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Mary Hamilton.</hi>
+                     </item>
+                     <item>
+                        <hi>Margaret Hamilton.</hi>
+                     </item>
+                  </list> That the said Settlement is valid not<g ref="char:EOLhyphen"/>withstanding the said Declaration, is the subscribed opinion of
+<list>
+                     <item>Mr. <hi>Recorder.</hi>
+                     </item>
+                     <item>Mr. <hi>Maynard.</hi>
+                     </item>
+                     <item>Mr. <hi>Latch.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:201774:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
